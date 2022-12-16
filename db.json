@@ -5,5 +5,25 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "doubleslide":[
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/2691dabe7c0-thyroid.jpg"
+    },
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/840ecda5758-STAR25.jpg"
+    },
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/b3a4bdb683b-1.jpg"
+    },
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/2691dabe7c0-thyroid.jpg"
+    },
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/840ecda5758-STAR25.jpg"
+    },
+    {
+    "url": "https://cdn01.pharmeasy.in/dam/banner/banner/b3a4bdb683b-1.jpg"
+    }
+    ]
 }
